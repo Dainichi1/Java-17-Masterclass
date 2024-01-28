@@ -18,5 +18,9 @@ public class Main {
         myVariable--;
         System.out.println("myVariable = "+myVariable);
 
+        if (myVariable == 0) {
+            System.out.println("It's now zero");
+        }
+
     }
 }
