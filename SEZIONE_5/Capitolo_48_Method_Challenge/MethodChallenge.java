@@ -25,13 +25,13 @@ public class MethodChallenge {
                     +playerPosition+" on the high score list");
     }
 
-    public static int calculateHighScorePosition (int playerScore) {
+    public static int calculateHighScorePosition (int score) {
         int result = 4;
-        if (playerScore >= 1000) {
+        if (score >= 1000) {
             result = 1;
-        } else if (playerScore >= 500) {
+        } else if (score >= 500) {
             result = 2;
-        } else if (playerScore >= 100) {
+        } else if (score >= 100) {
                 result = 3;
         }
         return result;
