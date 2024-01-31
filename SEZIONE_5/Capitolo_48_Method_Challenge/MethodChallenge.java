@@ -6,15 +6,19 @@ public class MethodChallenge {
         int score = 1500;
         int highScore = calculateHighScorePosition(score);
         displayHighScorePosition("Tim", highScore);
+
         score = 1000;
         highScore = calculateHighScorePosition(score);
         displayHighScorePosition("Mark", highScore);
+
         score = 500;
         highScore = calculateHighScorePosition(score);
         displayHighScorePosition("Jhon", highScore);
+
         score = 100;
         highScore = calculateHighScorePosition(score);
         displayHighScorePosition("Rita", highScore);
+
         score = 25;
         highScore = calculateHighScorePosition(score);
         displayHighScorePosition("Laura", highScore);
