@@ -1,4 +1,4 @@
-package SEZIONE_5.Esecizio_di_codifica_1_Positive_Negative_or_Zero;
+package SEZIONE_5.Esercizio_di_codifica_1_Positive_Negative_or_Zero;
 
 public class PositiveNegativeZero {
     // write code here
