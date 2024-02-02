@@ -4,9 +4,9 @@ public class BarkingDog {
     public static boolean shouldWakeUp (boolean barking, int hourOfDay) {
         if ((hourOfDay < 0) || (hourOfDay > 23)) {
             return false;
-        } else if (((hourOfDay < 8) || (hourOfDay > 22)) && barking == true) {
+        } else if (((hourOfDay < 8) || (hourOfDay > 22)) && barking) {
             return true;
-        } else if (barking == false) {
+        } else if (!barking) {
             return false;
         } else return false;
     }
