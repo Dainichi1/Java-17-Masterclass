@@ -5,7 +5,7 @@ public class PlayingCat {
         System.out.println(isCatPlaying(false,55));
     }
     public static boolean isCatPlaying (boolean summer, int temperature) {
-        int max = summer ? 45 : 35;
-        return temperature >= 25 && temperature <= max;
+        int max2 = summer ? 45 : 35;
+        return temperature >= 25 && temperature <= max2;
     }
 }
