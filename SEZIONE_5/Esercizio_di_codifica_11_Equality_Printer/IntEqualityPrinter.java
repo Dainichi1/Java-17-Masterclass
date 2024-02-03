@@ -14,7 +14,7 @@ public class IntEqualityPrinter {
             if ((x != y) && (y !=z) && (x != z)) {
                 System.out.println("All numbers are different");
             } else {
-                if ((x == y) && (y ==z) && (x == z)) {
+                if (x == y && y == z) {
                     System.out.println("All numbers are equal");
                 } else {
                     System.out.println("Neither all are equal or different");
