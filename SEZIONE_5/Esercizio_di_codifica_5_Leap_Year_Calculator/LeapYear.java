@@ -1,7 +1,11 @@
 package SEZIONE_5.Esercizio_di_codifica_5_Leap_Year_Calculator;
 
 public class LeapYear {
-    // write code here
+    public static void main(String[] args) {
+        System.out.println(""+isLeapYear(1999));
+        System.out.println(""+isLeapYear(2024));
+    }
+
     public static boolean isLeapYear(int year) {
 
         // if year is less than 1 or greater than 9_999, it's invalid,
