@@ -1,6 +1,10 @@
 package SEZIONE_5.Esercizio_di_codifica_10_Minutes_to_Years_and_Days_Calculator;
 
 public class MinutesToYearsDaysCalculator {
+    public static void main(String[] args) {
+        printYearsAndDays(1654654651);
+    }
+
     public static void printYearsAndDays (long minutes) {
         long year = 0;
         long day = 0;
