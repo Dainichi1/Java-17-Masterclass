@@ -1,6 +1,10 @@
 package SEZIONE_5.Esercizio_di_codifica_9_Area_Calculator;
 
 public class AreaCalculator {
+    public static void main(String[] args) {
+        System.out.println("L'area del cerchio è: "+area(45.5));
+        System.out.println("L'area del rettangolo è: "+area(45,46));
+    }
     public static double area (double radius) {
         double area = 0.0;
         if (radius < 0) {
