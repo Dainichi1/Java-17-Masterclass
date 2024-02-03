@@ -1,6 +1,10 @@
 package SEZIONE_5.Esercizio_di_codifica_3_MegaBytes_Converter;
 
 public class MegaBytesConverter {
+    public static void main(String[] args) {
+        printMegaBytesAndKiloBytes(4566);
+    }
+
     public static void printMegaBytesAndKiloBytes (int kiloBytes) {
         if (kiloBytes < 0) {
             System.out.println("Invalid Value");
