@@ -1,6 +1,10 @@
 package SEZIONE_5.Esercizio_di_codifica_4_Barking_Dog;
 
 public class BarkingDog {
+    public static void main(String[] args) {
+        System.out.println(""+shouldWakeUp(true, 23));
+        System.out.println(""+shouldWakeUp(false,11));
+    }
     public static boolean shouldWakeUp (boolean barking, int hourOfDay) {
         if ((hourOfDay < 0) || (hourOfDay > 23)) {
             return false;
