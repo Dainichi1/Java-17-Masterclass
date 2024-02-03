@@ -1,12 +1,14 @@
 package SEZIONE_5.Esercizio_di_codifica_2_Speed_Converter;
 
 public class SpeedConverter {
-    // write code here
+    public static void main(String[] args) {
+        printConversion(465);
+    }
+
     public static long toMilesPerHour (double kilometersPerHour) {
         if (kilometersPerHour >= 0) {
             double solution = kilometersPerHour / 1.609;
-            long rounded = Math.round(solution);
-            return rounded;
+            return Math.round(solution);
         } else return -1;
     }
 
