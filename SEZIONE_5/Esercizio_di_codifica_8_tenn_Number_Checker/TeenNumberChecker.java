@@ -1,7 +1,12 @@
 package SEZIONE_5.Esercizio_di_codifica_8_tenn_Number_Checker;
 
 public class TeenNumberChecker {
-    public static boolean hasTeen (int first, int second, int third) {
+    public static void main(String[] args) {
+        System.out.println (""+isTeen(15,16,23));
+        System.out.println(""+isTeen(35));
+    }
+
+    public static boolean isTeen (int first, int second, int third) {
         if (isTeen(first)) {
             return true;
         }
