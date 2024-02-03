@@ -1,6 +1,11 @@
 package SEZIONE_5.Esercizio_di_codifica_11_Equality_Printer;
 
 public class IntEqualityPrinter {
+    public static void main(String[] args) {
+        printEqual(1,1,1);
+        printEqual(1,2,2);
+        printEqual(1,2,3);
+    }
     public static void printEqual (int x, int y, int z) {
         if ((x < 0) || (y < 0) || (z < 0)) {
             System.out.println("Invalid Value");
