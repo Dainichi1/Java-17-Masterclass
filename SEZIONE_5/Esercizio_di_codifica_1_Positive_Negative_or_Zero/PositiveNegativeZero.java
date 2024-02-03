@@ -1,7 +1,12 @@
 package SEZIONE_5.Esercizio_di_codifica_1_Positive_Negative_or_Zero;
 
 public class PositiveNegativeZero {
-    // write code here
+    public static void main(String[] args) {
+        checkNumber(5);
+        checkNumber(-9);
+        checkNumber(0);
+    }
+
     public static void checkNumber (int number) {
         if (number > 0) {
             System.out.println("positive");
