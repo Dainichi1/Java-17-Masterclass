@@ -1,12 +1,13 @@
 package SEZIONE_5.Esercizio_di_codifica_7_Equal_Sum_Checker;
 
 public class EqualSumChecker {
+    public static void main(String[] args) {
+        System.out.println(""+hasEqualSum(1,1,2));
+        System.out.println(""+hasEqualSum(1,2,6));
+    }
     public static boolean hasEqualSum (int first, int second, int third) {
         int sum = first + second;
-
-        if (sum == third) {
-            return true;
-        } else return false;
+        return sum == third;
     }
 }
 
