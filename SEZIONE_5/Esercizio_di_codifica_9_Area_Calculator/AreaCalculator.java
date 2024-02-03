@@ -6,7 +6,7 @@ public class AreaCalculator {
         System.out.println("L'area del rettangolo è: "+area(45,46));
     }
     public static double area (double radius) {
-        double area = 0.0;
+        double area;
         if (radius < 0) {
             return -1.0;
         } else {
@@ -15,7 +15,7 @@ public class AreaCalculator {
     }
 
     public static double area (double x, double y) {
-        double area = 0.0;
+        double area;
         if ((x < 0) || (y < 0)) {
             return -1.0;
         } else {
