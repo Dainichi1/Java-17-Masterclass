@@ -6,10 +6,10 @@ public class MinutesToYearsDaysCalculator {
     }
 
     public static void printYearsAndDays (long minutes) {
-        long year = 0;
-        long day = 0;
-        long hour = 0;
-        long year2 = 0;
+        long year;
+        long day;
+        long hour;
+        long year2;
         if (minutes < 0) {
             System.out.println("Invalid Value");
         } else {
