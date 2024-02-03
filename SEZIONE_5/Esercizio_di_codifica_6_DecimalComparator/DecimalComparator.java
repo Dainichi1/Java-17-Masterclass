@@ -1,12 +1,13 @@
 package SEZIONE_5.Esercizio_di_codifica_6_DecimalComparator;
 
 public class DecimalComparator {
+    public static void main(String[] args) {
+        System.out.println(""+areEqualByThreeDecimalPlaces(1.456 , 1.456));
+    }
     public static boolean areEqualByThreeDecimalPlaces (double first, double second) {
         int primos =  (int) (first * 1000);
         int secondos = (int)  (second * 1000);
-        if (primos == secondos) {
-            return true;
-        } else return false;
+        return primos == secondos;
     }
 }
 
