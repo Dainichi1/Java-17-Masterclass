@@ -1,6 +1,6 @@
 package SEZIONE_06.Capitolo_57_More_Switch_Statement;
 
-public class Main {
+public class Main2 {
     public static void main(String[] args) {
 
         int switchValue = 3;
@@ -15,32 +15,21 @@ public class Main {
             default -> System.out.println("Was not 1, 2, 3, 4 or 5");
         }
 
-        String month = "April";
+        String month = "December";
         System.out.println(month + " is in the " + getQuarter(month) + " quarter");
     }
 
     public static String getQuarter (String month) {
 
-        switch (month) {
-            case "January":
-            case "February":
-            case "March":
-                return "1st";
-            case "April":
-            case "May":
-            case "June":
-                return "2nd";
-            case "July":
-            case "August":
-            case "September":
-                return "3rd";
-            case "October":
-            case "November":
-            case "December":
-                return "4th";
-        }
-
-        return "bad";
-
+        return switch (month) {
+            case "January", "February", "March" -> "1st";
+            case "April", "May", "June" -> "2nd";
+            case "July", "August", "September" -> "3rd";
+            case "October", "November", "December" -> "4th";
+            default -> {
+                String badResponse = month + " is bad";
+                yield badResponse;
+            }
+        };
     }
 }
