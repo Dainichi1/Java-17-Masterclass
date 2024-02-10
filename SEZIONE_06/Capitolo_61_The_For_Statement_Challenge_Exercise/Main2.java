@@ -11,6 +11,7 @@ public class Main2 {
                 counter ++;
                 System.out.println("Total prime numbers: "+counter+"\n");
                 if (counter == 3) {
+                    System.out.println("Found 3 - Exiting for loop");
                     break;
                 }
             }
