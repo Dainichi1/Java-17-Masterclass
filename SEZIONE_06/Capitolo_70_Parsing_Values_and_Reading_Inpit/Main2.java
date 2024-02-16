@@ -19,7 +19,7 @@ public class Main2 {
 
         String dateOfBirth = System.console().readLine("What year were you born?");
         int age = currentYear - Integer.parseInt(dateOfBirth);
-        return "So you are "+age+" years old";
+        return "So you are "+age+" years old!";
     }
 
     public static String getInputFromScanner(int currentYear) {

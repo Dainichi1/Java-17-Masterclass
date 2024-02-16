@@ -9,7 +9,7 @@ public class Main {
         int dateOfBirth = Integer.parseInt(userDateOfBirth); // prende una stringa e ritorna un int
         System.out.println("Age = " + (currentYear - dateOfBirth));
 
-        String userAgeWithPartialYear = "22.5";
+        String userAgeWithPartialYear = "23.5";
         double ageWithPartialYear = Double.parseDouble(userAgeWithPartialYear);
         System.out.println("The user says he's " + ageWithPartialYear);
 
