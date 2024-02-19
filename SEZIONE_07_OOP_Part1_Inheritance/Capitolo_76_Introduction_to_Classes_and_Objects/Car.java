@@ -1,4 +1,4 @@
-package SEZIONE_07.Capitolo_76_Introduction_to_Classes_and_Objects;
+package SEZIONE_07_OOP_Part1_Inheritance.Capitolo_76_Introduction_to_Classes_and_Objects;
 
 public class Car {
 
