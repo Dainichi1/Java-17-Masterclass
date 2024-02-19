@@ -1,4 +1,4 @@
-package SEZIONE_04.Capitolo_35_Logical_AND_Operator;
+package SEZIONE_04_IntelliJ_Basics.Capitolo_35_Logical_AND_Operator;
 
 public class Hello {
 

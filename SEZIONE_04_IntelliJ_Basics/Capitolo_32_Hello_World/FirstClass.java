@@ -1,4 +1,4 @@
-package SEZIONE_04.Capitolo_32_Hello_World;
+package SEZIONE_04_IntelliJ_Basics.Capitolo_32_Hello_World;
 
 public class FirstClass {
     public static void main(String[] args) {

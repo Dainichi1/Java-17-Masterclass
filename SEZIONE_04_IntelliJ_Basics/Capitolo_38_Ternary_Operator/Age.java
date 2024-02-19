@@ -1,4 +1,4 @@
-package SEZIONE_04.Capitolo_38_Ternary_Operator;
+package SEZIONE_04_IntelliJ_Basics.Capitolo_38_Ternary_Operator;
 
 public class Age {
 

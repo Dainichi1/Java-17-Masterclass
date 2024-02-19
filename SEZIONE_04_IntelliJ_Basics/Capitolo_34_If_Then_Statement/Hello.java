@@ -1,7 +1,6 @@
-package SEZIONE_04.Capitolo_37_Assignement_Operator_VS_Equals_Operator;
+package SEZIONE_04_IntelliJ_Basics.Capitolo_34_If_Then_Statement;
 
 public class Hello {
-
     public static void main(String[] args) {
         System.out.println("Hello, Tim");
 

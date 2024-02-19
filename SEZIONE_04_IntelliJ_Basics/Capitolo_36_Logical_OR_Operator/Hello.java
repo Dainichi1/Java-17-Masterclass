@@ -1,6 +1,7 @@
-package SEZIONE_04.Capitolo_34_If_Then_Statement;
+package SEZIONE_04_IntelliJ_Basics.Capitolo_36_Logical_OR_Operator;
 
 public class Hello {
+
     public static void main(String[] args) {
         System.out.println("Hello, Tim");
 

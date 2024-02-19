@@ -1,4 +1,4 @@
-package SEZIONE_04.Capitolo_39_Operator_Precedence;
+package SEZIONE_04_IntelliJ_Basics.Capitolo_39_Operator_Precedence;
 
 public class Challenge {
 

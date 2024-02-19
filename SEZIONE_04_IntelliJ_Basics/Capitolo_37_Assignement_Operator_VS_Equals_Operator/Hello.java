@@ -1,4 +1,4 @@
-package SEZIONE_04.Capitolo_36_Logical_OR_Operator;
+package SEZIONE_04_IntelliJ_Basics.Capitolo_37_Assignement_Operator_VS_Equals_Operator;
 
 public class Hello {
 
