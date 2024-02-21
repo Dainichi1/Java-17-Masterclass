@@ -3,7 +3,7 @@ package SEZIONE_07_OOP_Part1_Inheritance.Capitolo_82_Constructor_Challenge_Exerc
 public class Main {
     public static void main(String[] args) {
         Customer primoCustomer = new Customer("Marco",1500.0,"fsdfsd@fdsfs.it");
-        System.out.println("Primo cliente: "+primoCustomer.getName()+"; limite di spesa: "+primoCustomer.getCreditLimit()+"; email: "+primoCustomer.getEmailAddress()+"\n");
+        System.out.println("Primo cliente: "+primoCustomer.getName()+"; \nlimite di spesa: "+primoCustomer.getCreditLimit()+"; \nemail: "+primoCustomer.getEmailAddress()+"\n");
 
         Customer secondoCustomer = new Customer();
         System.out.println("limite di spesa con costruttore vuoto: "+secondoCustomer.getCreditLimit());
