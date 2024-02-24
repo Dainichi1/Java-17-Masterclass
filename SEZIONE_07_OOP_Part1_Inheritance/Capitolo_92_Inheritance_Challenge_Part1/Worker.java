@@ -1,4 +1,4 @@
-package SEZIONE_07_OOP_Part1_Inheritance.CApitolo_912_Inheritance_Challenge_Part1;
+package SEZIONE_07_OOP_Part1_Inheritance.Capitolo_92_Inheritance_Challenge_Part1;
 
 
 
