@@ -1,4 +1,4 @@
-package SEZIONE_07_OOP_Part1_Inheritance.Esercizio_di_codifica_36_Pool_Area;
+package SEZIONE_07_OOP_Part1_Inheritance.Esercizio_di_codifica_37_Pool_Area;
 
 public class Cuboid extends Rectangle{
 
