@@ -1,4 +1,4 @@
-package SEZIONE_09_Arrays.Capitolo_118_Arrays_Part_2;
+package SEZIONE_09_Arrays.Capitolo_119_Arrays_Part_2;
 
 import java.util.Arrays;
 
