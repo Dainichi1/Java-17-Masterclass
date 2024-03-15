@@ -1,4 +1,4 @@
-package SEZIONE_09_Arrays.SEZIONE_09_Esercizio_di_Codifica_41;
+package SEZIONE_09_Arrays.Esercizio_di_Codifica_41;
 
 import java.util.Arrays;
 import java.util.Scanner;
