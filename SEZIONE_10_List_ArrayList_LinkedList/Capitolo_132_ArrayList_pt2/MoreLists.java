@@ -17,5 +17,8 @@ public class MoreLists {
         ArrayList<String> nextList = new ArrayList<>(
                 List.of("pickles", "mustard", "cheese"));
         System.out.println(nextList);
+
+        groceries.addAll(nextList);
+        System.out.println(groceries);
     }
 }
