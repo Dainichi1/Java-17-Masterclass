@@ -1,4 +1,4 @@
-package SEZIONE_10.List_and_ArrayList_pt1;
+package SEZIONE_10.Capitolo_131_List_and_ArrayList_pt1;
 
 import java.util.ArrayList;
 import java.util.Arrays;
