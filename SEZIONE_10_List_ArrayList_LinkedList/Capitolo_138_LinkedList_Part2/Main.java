@@ -1,4 +1,4 @@
-package SEZIONE_10_List_ArrayList_LinkedList.Capitolo_138_Iterators;
+package SEZIONE_10_List_ArrayList_LinkedList.Capitolo_138_LinkedList_Part2;
 
 import java.util.LinkedList;
 import java.util.ListIterator;
@@ -28,8 +28,6 @@ public class Main {
         printItinerary2(placeToVisit);
         System.out.println("\n");
         printItinerary3(placeToVisit);
-        System.out.println("\n");
-        testIterator(placeToVisit);
 
 
     }
@@ -131,22 +129,5 @@ public class Main {
         System.out.println("Trip ends at: "+list.getLast());
     }
 
-    public static void testIterator (LinkedList<String> list) {
 
-        var iterator = list.listIterator();
-        while   (iterator.hasNext()) {
-//            System.out.println(iterator.next());
-            if (iterator.next().equals("Brisbane")) {
-                iterator.add("Lake Wivenhoe");
-            }
-        }
-        while (iterator.hasPrevious()) {
-            System.out.println(iterator.previous());
-        }
-
-        System.out.println(list);
-
-        var iterator2 = list.listIterator(3);
-        System.out.println(iterator2.previous());
-    }
 }
