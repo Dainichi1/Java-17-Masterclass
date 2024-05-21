@@ -1,4 +1,4 @@
-package SEZIONE_11_Abstraction.Capitolo_158_Whats_new_since_JDK8;
+package SEZIONE_11_Abstraction.Capitolo_158_Whats_new_since_JDK8_1;
 
 public class Test {
 
