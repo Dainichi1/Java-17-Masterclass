@@ -1,17 +1,17 @@
-# Java-17-Masterclass
+## Java-17-MasterclassAcquire Key Java Skills: From Basics to Advanced Programming and Certification - Start Your Dev Career
 Step into the world of programming with our Java Programming Masterclass, meticulously updated for 2024. Since its inception in 2016, this course has evolved continuously, ensuring you receive the latest and most relevant Java education. Purchase once and gain access to a lifetime of updates without any additional cost.
 
 Join an expansive community of over 832,000 students who have chosen my in-depth Java programming course for its thorough and detailed curriculum. Like Benhur G., who appreciates that "all lessons helpful in your Java Programming journey are included," you'll find our course suitable for all levels of expertise.
 
 Whether you're aiming to:
 
-Secure your first Java programming job
+- Secure your first Java programming job
 
-Advance to a senior software developer role
+- Advance to a senior software developer role
 
-Prepare for the Oracle Java certification exam
+- Prepare for the Oracle Java certification exam
 
-Develop your own Java applications
+- Develop your own Java applications
 
 Our Java Masterclass is your comprehensive resource for achieving these goals and more.
 
@@ -38,20 +38,10 @@ Take the leap today with our 30-day, full money-back guarantee. Whether you seek
 Enroll now and become part of a legacy of success. Your Java journey begins here.
 
 Cosa imparerai
-Learn the core Java skills needed to apply for Java developer positions in just 14 hours.
-Be able to sit for and pass the Oracle Java Certificate exam if you choose.
-Be able to demonstrate your understanding of Java to future employers.
-Learn industry "best practices" in Java software development from a professional Java developer who has worked in the language for close to 25 years.
-Acquire essential java basics for transitioning to the Spring Framework, Java EE, Android development and more.
-Obtain proficiency in Java 17, as well as older versions incluing Java 11 and Java 8.
-Java 21 features coming soon!
-Esistono dei requisiti o dei prerequisiti per il corso?
-A computer with either Windows, Mac or Linux to install all the free software and tools needed to build your new apps (I provide specific videos on installations for each platform).
-A strong work ethic, willingness to learn, and plenty of excitement about the awesome new programs you’re about to build.
-Nothing else! It’s just you, your computer and your hunger to get started today.
-A chi è rivolto questo corso:
-New coders seeking to start a career in tech with foundational Java skills.
-Software devs aiming to update their Java knowledge to the latest version.
-Professionals targeting the Oracle Java Certification for career growth.
-Self-taught programmers looking to formalize and deepen their Java expertise.
-Tech enthusiasts interested in building Java applications for personal or professional use.
+- Learn the core Java skills needed to apply for Java developer positions in just 14 hours.
+- Be able to sit for and pass the Oracle Java Certificate exam if you choose.
+- Be able to demonstrate your understanding of Java to future employers.
+- Learn industry "best practices" in Java software development from a professional Java developer who has worked in the language for close to 25 years.
+- Acquire essential java basics for transitioning to the Spring Framework, Java EE, Android development and more.
+- Obtain proficiency in Java 17, as well as older versions incluing Java 11 and Java 8.
+- Java 21 features coming soon!
